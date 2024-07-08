@@ -1,0 +1,12 @@
+.contenedor{
+    background-color: bisque;
+    width: 20rem;
+}
+
+.contenedordetodo{
+    padding: 1rem;
+    border-color: black;
+    border-style: dotted;
+    width: 20rem;
+    height: 15rem;
+}
